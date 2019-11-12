@@ -1,0 +1,6 @@
+{
+    "redis":{
+        "host" : "localhost_if_local_redis_instance",
+        "port" : "6379"
+    }
+}
