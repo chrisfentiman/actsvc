@@ -10,7 +10,7 @@
   "dependencies": {
     "@aws/dynamodb-data-mapper": "^0.7.3",
     "@aws/dynamodb-data-mapper-annotations": "^0.7.3",
-    "apollo-server-lambda": "^2.9.7",
+    "apollo-server-lambda": "^2.14.2",
     "aws-sdk": "^2.569.0",
     "graphql": "^0.13.2",
     "jsonwebtoken": "^8.5.1",
